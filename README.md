@@ -1,5 +1,5 @@
 # Basic Node.js App with Express
-#### Deployed into an azure container using Azure WebApp package with Gihub Actions
+##### Deployed into an azure container using Azure WebApp package with Gihub Actions
 
 > This repo was created to clear how to deploy a single docker container runing a basic Node.js application with Typescript using [azure/webapps-deploy@v2]() 
 
